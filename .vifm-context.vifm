@@ -1,0 +1,8 @@
+let $VIFM_CONTEXT = expand('%d')
+source $VIFM/navigation/hugo.vifm
+
+nnoremap ;rm :cd $VIFM_CONTEXT/content/roadmaps<CR>
+nnoremap ;tt :cd $VIFM_CONTEXT/content/tomorrow-lists<CR>
+nnoremap ;dd :cd $VIFM_CONTEXT/content/dance<CR>
+
+nnoremap ;ii :goto $VIFM_CONTEXT/content/_index.html<CR>
