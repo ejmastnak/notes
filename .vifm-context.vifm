@@ -1,0 +1,6 @@
+let $VIFM_CONTEXT = expand('%d')
+source $VIFM/navigation/vitepress.vifm
+
+nnoremap ;tt :goto $VIFM_CONTEXT/TODO.md<CR>
+
+nnoremap ;ms :goto $VIFM_CONTEXT/src/musclesync.md<CR>
