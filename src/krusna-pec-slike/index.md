@@ -21,7 +21,7 @@ import spranja2Img from './spranja-2.jpg?w=600'
 ## Info
 
 Originalni problem je bil v tem, da je dim uhajal skozi pečnice v bivalne prostore, ko se je v peč kurilo.
-Pečnice smo sneli, zdaj **iščemo mnenje strokovnjaka, ali je smiselno vrh uboka preprosto zaliti in pečnice nazaj položiti, ali je treba peč v celoti prenoviti, da bi bila uporabna.**
+Pečnice smo sneli, zdaj iščemo mnenje strokovnjaka, ali je smiselno vrh uboka preprosto zaliti in pečnice nazaj položiti, ali je treba peč v celoti prenoviti, da bi bila uporabna.
 
 Pečnice so snete, oštevilčene, in spravljene. Vse so cele in še uporabne. Skupna površina pečnic je 1.5 m x 1.5 m. Hiša je zidana.
 
