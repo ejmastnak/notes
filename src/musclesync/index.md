@@ -5,6 +5,8 @@ date: "2025-09-04"
 
 # MuscleSync
 
+For task specifications: [click here](./specs)
+
 ## Tasks I can complete
 
 | Task | Estimated completion time |
@@ -48,11 +50,10 @@ Create a prototype that:
 
 - Reads data live from MC sensor as user pedals on bicycle
 - Processes the MC sensor signal in real time and categorizes the user's muscle output as below lower threshold (muscle output too low), in target range, or above upper threshold (muscle output too high)
-- Has four feedback modes:
+- Has a feedback mode for each operating range:
 
   1. Intermittent *ping, ping, ping* when user's muscle output is in target range
-  1. Warning buzz when muscle output falls lower threshold (when user's muscle output is too low)
+  1. Warning buzz when muscle output falls below lower threshold (when user's muscle output is too low)
   1. Separate warning buzz when muscle output rises above upper threshold (when user's muscle output is too high)
-  1. Direct modulation of haptic motor from muscle signal (for testing purposes)
 
 - Has a physical form factor that allows wearing the device while pedalling a bicycle and that simultaneous supports vibration from the haptic motor without disturbing the reading of the muscle signal at the quadriceps with the MC sensor.
