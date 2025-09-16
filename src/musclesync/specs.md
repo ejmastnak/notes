@@ -1,5 +1,5 @@
 ---
-title: "MuscleSync"
+title: "MuscleSync Tasks"
 date: "2025-09-04"
 ---
 
