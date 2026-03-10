@@ -6,12 +6,12 @@ const props = defineProps({
 </script>
 
 <template>
-  <div class="flex flex-col">
+  <div class="flex flex-col items-center">
     <img 
       :src="src"
       class="mx-auto my-auto object-cover rounded-md"
     />
-    <p v-if="caption" class="-translate-y-2 text-gray-600 text-center">{{caption}}</p>
+    <p v-if="caption" class="-translate-y-2 text-gray-600 text-center max-w-xl mx-auto">{{caption}}</p>
   </div>
 
 </template>
