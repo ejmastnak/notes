@@ -25,3 +25,5 @@ V kolikor je dobavljivo bi vzeli:
   :src="kopalnicaLucImage" 
   caption="Naša trenutna kopalniška luč: Philips Pentura Mini LED BN133C, 7 W, L600 mm, 3000 K, a je ne najdem v trenutnem katalogu."
 />
+
+Najlepša hvala!
