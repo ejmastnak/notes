@@ -11,7 +11,7 @@ const props = defineProps({
       :src="src"
       class="mx-auto my-auto object-cover rounded-md"
     />
-    <p v-if="caption" class="-translate-y-2 text-gray-600 text-center max-w-xl mx-auto">{{caption}}</p>
+    <p v-if="caption" class="-translate-y-2 text-gray-600 text-center max-w-xl mx-auto dark:text-gray-300">{{caption}}</p>
   </div>
 
 </template>
